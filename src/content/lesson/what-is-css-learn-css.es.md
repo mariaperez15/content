@@ -122,7 +122,7 @@ Asignemos "primer" como ID de la primera celda en la siguiente tabla, y luego co
 
 |**Selector**   |**Descripción**   |**Ejemplo**   |
 |:-------------|:-----------------|:-------------|
-|.classname   |Existe un propiedad en HTML que se llama "clase" y permite agrupar diferentes etiquetas en un grupo lógico. En CSS se puede utilizar `.` (punto) para seleccionar todos los elementos que usen esa clase para seleccionar todos los elementos html con el propiedad de esa clase.   |`.classname { color: #BDBDBD; }`   |
+|.classname   |Existe un propiedad en HTML que se llama "clase" y permite agrupar diferentes etiquetas en un grupo lógico. En CSS se puede utilizar `.` (punto) para seleccionar todos los elementos que usen esa clase para seleccionar todos los elementos html con la propiedad de esa clase.   |`.classname { color: #BDBDBD; }`   |
 
 En el siguiente ejemplo le estamos aplicando una clase "odd" a las celdas impares de esta tabla, y luego con CSS le asignamos el fondo amarillo a la clase .odd:
 
